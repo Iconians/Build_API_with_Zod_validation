@@ -1,7 +1,6 @@
 # Build API with Zod validation
 
-Build a small REST API with request validation using Zod. [Full instructions](https://github.com/your-repo/module-6-assignment)
-
+Build a small REST API with request validation using Zod
 **Requirements**
 
 - **Schemas** — Define Zod schemas for at least one POST (or PUT) body (e.g. create user, create post). Use string, number, optional/nullable, and at least one refinement (e.g. `.min()`, `.email()`). No untaught Zod features.
